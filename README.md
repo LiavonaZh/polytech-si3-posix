@@ -11,4 +11,4 @@ In /TD_04_files_dirs folder, run ```gcc -Wall -std=c99 -o my_cp_with_directory m
 P.S. I think I didn't finish the recursive version of cp command.
 
 ## TD 06 - Redirection
-In /TD_06_redirection, run ```make``` to compile C code. Then run ```./tst_Cache_STRAT.exe```, then run ```./ring``` to test the program.
+In /TD_06_redirection, run ```make``` to compile C code. Then run ```./ring``` to test the program.
