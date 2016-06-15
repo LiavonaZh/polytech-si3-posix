@@ -7,5 +7,8 @@ In /TD_01_Malloc folder, run ```make``` to compile C code. Then run ```./tst_mym
 In /TD_02_Cache folder, run ```make``` to compile C code. Then run ```./tst_Cache_STRAT.exe``` where STRAT is RAND, NUR, LRU or FIFO. The expected output of these programs is in STRAT_default.out
 
 ## TD 4 - Files
-In /TD_02_Cache folder, run ```gcc -Wall -std=c99 -o my_cp_with_directory my_cp_with_directopy.c```, then run ```./my_cp_with_directory``` to test the program.
+In /TD_04_Files folder, run ```gcc -Wall -std=c99 -o my_cp_with_directory my_cp_with_directopy.c```, then run ```./my_cp_with_directory``` to test the program.
 P.S. I think I didn't finish the recursive version of cp command.
+
+## TD 06 - Redirection
+In /TD_06_redirection, run ```make``` to compile C code. Then run ```./tst_Cache_STRAT.exe```, then run ```./ring``` to test the program.
